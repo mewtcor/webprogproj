@@ -1,0 +1,1 @@
+﻿SELECT u.FirstName, u.LastName, u.Email, u.enrolmentDate, u.StudyMode, a.TimeIn, a.TimeOut, a.Comment FROM Users u, Attendance a, Class c WHERE u.Email = a.UserID AND c.Id = a.ClassID AND DATEPART(YEAR, a.TimeIn) = 2017 AND DATEPART(MONTH, a.TimeIn) = 12 AND DATEPART(DAY, a.TimeIn)= 6

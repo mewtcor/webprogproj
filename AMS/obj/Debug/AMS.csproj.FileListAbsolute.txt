@@ -1,0 +1,135 @@
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\ApplicationInsights.config
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\AMS.dll.config
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\AMS.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\AMS.pdb
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\AspNet.ScriptManager.bootstrap.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\AspNet.ScriptManager.jQuery.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.ScriptManager.MSAjax.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.ScriptManager.WebForms.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\WebGrease.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\obj\Debug\AMS.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\obj\Debug\AMS.dll
+\\Mac\Home\Desktop\Visual Studio Files\AMS\AMS\obj\Debug\AMS.pdb
+\\Mac\Home\Desktop\AMS\AMS\bin\ApplicationInsights.config
+\\Mac\Home\Desktop\AMS\AMS\bin\AMS.dll.config
+\\Mac\Home\Desktop\AMS\AMS\bin\AMS.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\AMS.pdb
+\\Mac\Home\Desktop\AMS\AMS\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\AspNet.ScriptManager.bootstrap.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\AspNet.ScriptManager.jQuery.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.ScriptManager.MSAjax.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.ScriptManager.WebForms.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\WebGrease.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Desktop\AMS\AMS\obj\Debug\AMS.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\AMS\AMS\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AMS\AMS\obj\Debug\AMS.dll
+\\Mac\Home\Desktop\AMS\AMS\obj\Debug\AMS.pdb
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\AMS\AMS\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\ApplicationInsights.config
+\\Mac\Home\Downloads\AMS\AMS\bin\AMS.dll.config
+\\Mac\Home\Downloads\AMS\AMS\bin\AMS.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\AMS.pdb
+\\Mac\Home\Downloads\AMS\AMS\bin\Antlr3.Runtime.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\AspNet.ScriptManager.bootstrap.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\AspNet.ScriptManager.jQuery.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.ScriptManager.MSAjax.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.ScriptManager.WebForms.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Helpers.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Mvc.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Optimization.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Razor.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.WebPages.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\WebGrease.dll
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Helpers.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Mvc.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Razor.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.WebPages.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\System.Web.Optimization.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Downloads\AMS\AMS\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Downloads\AMS\AMS\obj\Debug\AMS.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\AMS\AMS\obj\Debug\AMS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\AMS\AMS\obj\Debug\AMS.dll
+\\Mac\Home\Downloads\AMS\AMS\obj\Debug\AMS.pdb
